@@ -3,6 +3,7 @@
 		"public": {
 			"char_limit": 12000,
 			"name_limit": 25,
+			"godword": "AAAAAAAAAA",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -61,7 +62,7 @@
 				"min": 50,
 				"default": "random"
 			},
-			"defaultName": "Anonymous"
+			"defaultName": "we r legon do nut frogeet"
 		},
 		"private": {
 			"char_limit": 12000,
@@ -172,7 +173,7 @@
 		"genie"
 	],
 	"banLength": 1440,
-	"port": 3000,
+	"port": 6969,
 	"express": {
 		"serveStatic": true
 	}
